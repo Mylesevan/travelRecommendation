@@ -6,12 +6,12 @@
         "cities": [
           {
             "name": "Sydney, Australia",
-            "imageUrl": "beach1.jpeg",
+            "imageUrl": "sydney.jpeg",
             "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
           },
           {
             "name": "Melbourne, Australia",
-            "imageUrl": "beach2.jpeg",
+            "imageUrl": "melbourne.jpeg",
             "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
           }
         ]
@@ -27,7 +27,7 @@
           },
           {
             "name": "Kyoto, Japan",
-            "imageUrl": "temple2.jpeg",
+            "imageUrl": "japan2.jpeg",
             "description": "Known for its historic temples, gardens, and traditional tea houses."
           }
         ]
@@ -38,12 +38,12 @@
         "cities": [
           {
             "name": "Rio de Janeiro, Brazil",
-            "imageUrl": "temple1.jpeg",
+            "imageUrl": "rio.jpeg",
             "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
           },
           {
             "name": "São Paulo, Brazil",
-            "imageUrl": "temple2.jpeg",
+            "imageUrl": "sanpaulo.jpeg",
             "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
           }
         ]
